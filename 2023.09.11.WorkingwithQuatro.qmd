@@ -1,0 +1,24 @@
+---
+title: "Working with Quarto and GitHub"
+author: 
+  - name: Kianie David
+    email: kdavid3@huskers.unl.edu
+    affiliations: 
+      - name: School of Natural Resources
+        address: 1234 Holdrege St. 
+        city: Lincoln
+        state: Nebraska
+        postal-code: 68503
+date: today
+format: 
+  html:
+    theme: superhero
+    self-contained: true    
+editor: visual
+---
+
+## Introduction
+
+We are going to be using a document generating framework (Quarto, built off of RMarkdown) to explore how to use git and give us a background into using Quarto to generate a document.
+
+Lots of help can be found [here](https://quarto.org/docs/guide/).
